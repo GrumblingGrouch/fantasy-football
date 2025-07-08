@@ -1,0 +1,13 @@
+# Python artifacts
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.clasprc.json
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
